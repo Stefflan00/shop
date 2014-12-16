@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ip_address: MyString
+  invoice_number: MyString
+  transaction_id: MyString
+  tracking_number: MyString
+  email: MyString
+
+two:
+  ip_address: MyString
+  invoice_number: MyString
+  transaction_id: MyString
+  tracking_number: MyString
+  email: MyString
